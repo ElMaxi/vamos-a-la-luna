@@ -1,0 +1,5 @@
+C:\Users\ablopez\source\repos\Agencia Espacial - Agustín López\Agencia Espacial - Agustín López\obj\Debug\net6.0\Agencia Espacial - Agustín López.csproj.AssemblyReference.cache
+C:\Users\ablopez\source\repos\Agencia Espacial - Agustín López\Agencia Espacial - Agustín López\obj\Debug\net6.0\Agencia Espacial - Agustín López.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ablopez\source\repos\Agencia Espacial - Agustín López\Agencia Espacial - Agustín López\obj\Debug\net6.0\Agencia Espacial - Agustín López.AssemblyInfoInputs.cache
+C:\Users\ablopez\source\repos\Agencia Espacial - Agustín López\Agencia Espacial - Agustín López\obj\Debug\net6.0\Agencia Espacial - Agustín López.AssemblyInfo.cs
+C:\Users\ablopez\source\repos\Agencia Espacial - Agustín López\Agencia Espacial - Agustín López\obj\Debug\net6.0\Agencia Espacial - Agustín López.csproj.CoreCompileInputs.cache
