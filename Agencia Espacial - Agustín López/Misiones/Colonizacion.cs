@@ -11,7 +11,7 @@ namespace Agencia_Espacial___Agustín_López.Misiones
     {
         public int Colonos { get; private set; }
 
-        public Colonizacion(int colonos, string NombreMision, Planetas destinoMision, int CantidadAstronautas) : base(NombreMision, destinoMision, CantidadAstronautas)
+        public Colonizacion(int colonos, string NombreMision, Destino destinoMision, int CantidadAstronautas) : base(NombreMision, destinoMision, CantidadAstronautas)
         {
             Colonos = colonos;
 

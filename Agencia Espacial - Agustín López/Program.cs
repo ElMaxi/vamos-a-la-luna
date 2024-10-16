@@ -13,7 +13,7 @@ public     class Program
       
         static void Main()
         {
-            Mision mision = new Exploracion ("nos fuimos", Planetas.Titan)
+            Menu.MostrarMenu();
         }
     }
 }

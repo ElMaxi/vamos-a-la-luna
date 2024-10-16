@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ablopez\\source\\repos\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj": {}
+    "C:\\Users\\ABLOPEZ\\Downloads\\vamos-a-la-luna-main\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ablopez\\source\\repos\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj": {
+    "C:\\Users\\ABLOPEZ\\Downloads\\vamos-a-la-luna-main\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ablopez\\source\\repos\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj",
+        "projectUniqueName": "C:\\Users\\ABLOPEZ\\Downloads\\vamos-a-la-luna-main\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj",
         "projectName": "Agencia Espacial - Agustín López",
-        "projectPath": "C:\\Users\\ablopez\\source\\repos\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj",
-        "packagesPath": "C:\\Users\\ablopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ablopez\\source\\repos\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López\\obj\\",
+        "projectPath": "C:\\Users\\ABLOPEZ\\Downloads\\vamos-a-la-luna-main\\Agencia Espacial - Agustín López\\Agencia Espacial - Agustín López.csproj",
+        "packagesPath": "C:\\Users\\ABLOPEZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ABLOPEZ\\Downloads\\vamos-a-la-luna-main\\Agencia Espacial - Agustín López\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ablopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ABLOPEZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

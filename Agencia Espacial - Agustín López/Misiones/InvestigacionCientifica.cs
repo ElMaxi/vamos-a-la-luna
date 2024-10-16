@@ -11,7 +11,7 @@ namespace Agencia_Espacial___Agustín_López.Misiones
     {
         private string CampoInvestigacion { get; set; }
 
-        public InvestigacionCientifica(int colonos, string NombreMision, Planetas destinoMision, int CantidadAstronautas, string campoInvestigacion) : base(NombreMision, destinoMision, CantidadAstronautas)
+        public InvestigacionCientifica(string NombreMision, Destino destinoMision, int CantidadAstronautas, string campoInvestigacion) : base(NombreMision, destinoMision, CantidadAstronautas)
         {   CampoInvestigacion = campoInvestigacion;      }
 
         public override double CalcularDuracion()
