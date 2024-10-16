@@ -9,7 +9,7 @@ namespace Agencia_Espacial___Agustín_López.Misiones
 {
     public  class Exploracion : Mision
     {
-        public Exploracion(string NombreMision, Planetas destinoMision, int CantidadAstronautas) : base(NombreMision, destinoMision, CantidadAstronautas) { }
+        public Exploracion(string NombreMision, Destino destinoMision, int CantidadAstronautas) : base(NombreMision, destinoMision, CantidadAstronautas) { }
        
         public override double CalcularDuracion()
         {

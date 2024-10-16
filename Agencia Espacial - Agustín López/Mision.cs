@@ -10,10 +10,10 @@ namespace Agencia_Espacial___Agustín_López
     public abstract class Mision
     {
         public string NombreMision { get; set; }
-        public Planetas DestinoMision { get; set; }
+        public Destino DestinoMision { get; set; }
         public int CantidadAstronautas;
 
-            public Mision(string nombreMision, Planetas destinoMision, int cantidadAstronautas)
+            public Mision(string nombreMision, Destino destinoMision, int cantidadAstronautas)
         {
             NombreMision = nombreMision;
             DestinoMision = destinoMision;
@@ -30,9 +30,6 @@ namespace Agencia_Espacial___Agustín_López
         {
 
         }
-            public abstract string ToString()
-        {
-
-        }
+         
     }
 }
